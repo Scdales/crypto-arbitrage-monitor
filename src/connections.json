@@ -1,0 +1,6 @@
+{
+    "Bittrex": "wss://socket-v3.bittrex.com/signalr",
+    "Coinbase": "wss://ws-feed.pro.coinbase.com",
+    "Huobi": "wss://api.huobi.pro/ws",
+    "Binance": "wss://stream.binance.com:9443"
+}

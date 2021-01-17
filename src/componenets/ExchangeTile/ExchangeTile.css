@@ -1,0 +1,27 @@
+.exchange-tile-container {
+    padding: 10px;
+}
+
+.exchange-tile {
+    height: 100px;
+    width: 250px;
+    background-color: #c8d0ec;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 5px 5px #252a356b;
+}
+
+.tile-header {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.tile-bid-ask {
+    padding: 10px;
+}
+
+.tile-price-display {
+    padding: 10px;
+}
